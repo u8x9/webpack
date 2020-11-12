@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1605192376996'); /* IE9 */
+  src: url('iconfont.eot?t=1605192376996#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQ0AAsAAAAACJgAAAPoAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqEWIQDATYCJAMQCwoABCAFhG0HSxtwB8gekiRIQAEFJCggN8xTPHzu93lukv82y6gI1Hp2rFBxWdco1hWmupqU6HiUHf9/Ps96KQY/a2SkckDUyyT96aRKJv1L4QR3r+bVOG1i384eXFN/BbLRLM9mc4kqigitAJzgAKOKGge8gcx9DsRtvLp0PYEuc9JRB9WNFohSGN0C8Ur0sBCV0ig1qaEKTcnYAvGBVk1L0k0A7/3vxz8wRRRIWhmMvmdPqtxQ+ivwpks9uz3baBfBHc8EbhIZ60Ahbkot19Shf51al9JcYxNoFCGNZf3fxkfLHFXWrFSc8OdFA4akB7itQOZXwKYT/JLpJH51aWRgSueKMeAL8J/IZvzIquga0Bhs2qOJjUZa4Lt11y7uOXB5MGz+itDS7xQ150dSALqFDUH3Pa1xLSsnxKODOtpaxsa+04xuk+tYApt28UlV1oEjO7b3k9cvHWA7uDet4BBtbQlec3LowG0DncnWUOKZh7njXbnrZ9NWO7exH38gCdC9tdB2jDuSYin2PXpkffjQ8vix7ckT61JWODstpCG04wUsoE9TPTZPImqU9XCyTSqyHE21wcF56uiL3WYUps1Dw8PMw8JDzafHXS/NLhWXhg31rqtUmyNDzXQYmXeHT9err5YUo0pUWUud94Wsj8t+3+r2py+rH42uXX1T6NUwtf9Uy91/uTVPY95MbmiOYXYN69+o/bd1mm6zWv5nSl/rLjFVPpnaSifit7UDakAdLwSpZkSBgYHXlh/fp5ei93b7TavfvGuDc+fZHS8re3pVy9+oIPSyLGTEkYVmi9Fk5yymF2lupkSRajZvI4qOTaXT9SW2Ev2s0nVxTte8XJfTmXHT4cidt/3KrO8/ZoPM6JsPVY8ByJ/TbNDm63LaP+A3xj8EL47rWfir0hqAnw9852BtK9AuEVSJ1tzvzW1ZUVS+oS1FFtgcjVjs4j5Cja6Y+53TYcjrMWSjrZMJ1SgNSYdZyKp5VMGtQ0u3LWhU29BlTc3kbsMUalGigVULCIQBpyDp8wOyAbdQBfcKWsZ8gsZAqKHLefSds9tiiKhCwSzBboabwoi8FBQsPUFBajv2TPCzSpLvk2xYCYkuxqgzZEM1OIiVMQaEJnpMhAiMoEgBpppshv1+iZEVyYt5ouskRM7X64WyK+l4KQDIPgXGIjA3BmcKhognCRLc+gTKfb4d5jGBH0upyakw2mCKELFxhpGOoQWqRhJslXMtl4RM5GFCEAKGQCEJYFQTE+Y3/RKGXN7KC+MROp09vLJ8eqqW0Faim18WeMIyDzGPMV8JFaWmNJQW6msRT/KLIRLFhiqWXMYQupKdQsQADkhuDAA=') format('woff2'),
+  url('iconfont.woff?t=1605192376996') format('woff'),
+  url('iconfont.ttf?t=1605192376996') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1605192376996#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-viewlist:before {
+  content: "\e76d";
+}
+
+.icon-aviation:before {
+  content: "\e770";
+}
+
+.icon-Daytimemode:before {
+  content: "\e771";
+}
+
