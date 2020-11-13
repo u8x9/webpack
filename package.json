@@ -9,6 +9,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.2.1",
+    "core-js": "^3.7.0",
+    "corejs": "^1.0.0",
     "css-loader": "^5.0.1",
     "css-minimizer-webpack-plugin": "^1.1.5",
     "eslint": "^7.13.0",
@@ -42,6 +49,6 @@
     ]
   },
   "eslintConfig": {
-      "extends":"airbnb-base"
+    "extends": "airbnb-base"
   }
 }
